@@ -27,4 +27,22 @@ python3  osint_instagram.py
 
 cilad Hadad aragto badal deegaankaaga.
 
+python3 -m venv venv
+
+source venv/bin/activate
+
+pip install requests 
+
+pip install beautifulsoup
+
+pip install colorama
+
+pip install rich
+
+pip install cryptograph
+
+pip install lxml
+
+python3 osint_instagram.py
+=========================================
 
