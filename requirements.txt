@@ -1,0 +1,7 @@
+requests==2.28.1
+beautifulsoup4==4.11.1
+colorama==0.4.6
+rich==13.3.3
+cryptography==39.0.1
+lxml==4.9.1
+
