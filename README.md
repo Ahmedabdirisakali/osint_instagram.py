@@ -1,6 +1,6 @@
 i# osint_instagram.py
 
-Toolkan waa osint_instagram.py
+Toolkan waa osint_instagram.p
 
 wuxuu macluumaad kaaga keenaya instagram qofka isticmaala.
 Qaabka loo Rakibayo Toolka.
@@ -45,4 +45,19 @@ pip install lxml
 
 python3 osint_instagram.py
 =========================================
+
+KALILINUX
+
+markaa Rabtid kalilinux inaad ku shubto Toolka. badel Deegaanka.
+
+apt update
+
+apt install python3 python3-venv
+
+python3 -m venv myenv
+
+source myenv/bin/activate
+
+python3 osint_instagram.py 
+
 
