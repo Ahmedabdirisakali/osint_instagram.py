@@ -15,4 +15,16 @@ apt install git -y
 
 apt install python python2 python3  -y
 
-git clone 
+git clone  https://github.com/Ahmedabdirisakali/osint_instagram.py.git
+
+cd  osint_instagram.py
+
+chmod +x *
+
+pip  install requirements.txt 
+
+python3  osint_instagram.py
+
+cilad Hadad aragto badal deegaankaaga.
+
+
